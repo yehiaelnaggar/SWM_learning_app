@@ -1,7 +1,8 @@
 # SWM_learning_app
-SWM-learning app is a Self-study app/ students app that can use to
+SWM-learning app is a Self-study app
 <br>
 SWM (means)→ "Study With Me"
+<br>
 ## Use cases:
 * 1- Write student note
 * 2- Pomodoro technique to get focused and productivity
